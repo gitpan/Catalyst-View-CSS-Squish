@@ -11,4 +11,4 @@ no_index:
 requires:
   CSS::Squish: 0
   Catalyst: 5.64
-version: 0.01
+version: 0.02
